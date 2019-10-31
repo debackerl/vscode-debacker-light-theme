@@ -1,0 +1,33 @@
+{
+	"name": "debacker-light-theme",
+	"version": "1.0.0",
+	"publisher": "debackerl",
+	"displayName": "Debacker Light Theme",
+	"author": "Laurent Debacker <debackerl gmail com>",
+	"license": "The Unlicense",
+	"categories": [ "Themes" ],
+	"keywords": [ "light", "bright", "color", "colour", "theme" ],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Debacker Light Theme",
+				"uiTheme": "vs",
+				"path": "./themes/debacker-light.color-theme.json"
+			}
+		]
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"scripts": {
+		"package": "vsce package",
+		"publish": "vsce publish"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/debackerl/vscode-debacker-light-theme.git"
+	},
+	"devDependencies": {
+		"vsce": "^1.69.0"
+	}
+}
