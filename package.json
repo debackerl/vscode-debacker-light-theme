@@ -28,6 +28,6 @@
 		"url": "https://github.com/debackerl/vscode-debacker-light-theme.git"
 	},
 	"devDependencies": {
-		"vsce": "^1.69.0"
+		"vsce": "^1.95.0"
 	}
 }
