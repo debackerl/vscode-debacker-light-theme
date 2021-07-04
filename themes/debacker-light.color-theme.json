@@ -161,7 +161,7 @@
 		"list.errorForeground": "#b01011",
 		"list.focusBackground": "#0074e8",
 		"list.highlightForeground": "#0066bf",
-		"list.inactiveSelectionBackground": "#4074a1",
+		"list.inactiveSelectionBackground": "#d6ebff",
 		"list.invalidItemForeground": "#b89500",
 		"list.warningForeground": "#855f00",
 		"listFilterWidget.background": "#efc1ad",
