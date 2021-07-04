@@ -1,12 +1,20 @@
 {
 	"name": "debacker-light-theme",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"publisher": "debackerl",
 	"displayName": "Debacker Light Theme",
 	"author": "Laurent Debacker <debackerl gmail com>",
 	"license": "The Unlicense",
-	"categories": [ "Themes" ],
-	"keywords": [ "light", "bright", "color", "colour", "theme" ],
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"light",
+		"bright",
+		"color",
+		"colour",
+		"theme"
+	],
 	"contributes": {
 		"themes": [
 			{
